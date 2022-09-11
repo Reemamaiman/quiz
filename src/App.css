@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  scrollbar-width: thin; /* Firefox */
+  scrollbar-width: thin;
 }
 
 *::-webkit-scrollbar {
@@ -20,7 +20,7 @@ a {
 .app {
   min-height: 98.5vh;
   border: 8px solid #29022a93;
-  /* background-color: white; */
+  
   margin: 5px;
   padding: 5px;
 }
